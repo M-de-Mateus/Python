@@ -1,0 +1,6 @@
+num1 = int(input('Escreva o primeiro número: '))
+num2 = int(input('Escreva o segundo número: '))
+print('{} + {} = {}'.format(num1, num2, num1 + num2))
+print('{} - {} = {}'.format(num1, num2, num1 - num2))
+print('{} x {} = {}'.format(num1, num2, num1 * num2))
+print('{} / {} = {}'.format(num1, num2, num1 / num2))
